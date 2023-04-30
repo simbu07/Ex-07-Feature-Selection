@@ -121,37 +121,36 @@ print ("R2     :",r2_score(y_test,target_predict))
 ```
 # OUPUT:
 ### Dataset:
-![dataset](Dataset.png)
+![Dataset](https://user-images.githubusercontent.com/94525786/235351611-43c1d068-0709-4fbf-8b6b-18b2de8316a1.png)
 
 ### Null Values:
-![null](null.png)
+![null](https://user-images.githubusercontent.com/94525786/235351619-f55d5efd-501f-43e6-990d-1cc9659bbed6.png)
 
 ### Describe:
-![null](describe.png)
+![describe](https://user-images.githubusercontent.com/94525786/235351621-a92e1da3-10c2-42cd-b0af-e0c611ce8694.png)
 
 ### missing values::
-![missing_value](Missingvalue.png)
+![Missingvalue](https://user-images.githubusercontent.com/94525786/235351625-65cdf214-7952-4968-ad7c-6610974d7ebd.png)
 
 ### Data after cleaning:
-![data](Cleaneddata.png)
+![Cleaneddata](https://user-images.githubusercontent.com/94525786/235351633-073a22ba-3c47-4133-85d4-c681e03a0c35.png)
 
 ### Data on Heatmap:
-![heatmap](Heatmap.png) 
+![Heatmap](https://user-images.githubusercontent.com/94525786/235351639-bb34ace7-c70a-43bf-8ff1-7dca4d41b725.png)
 
 ### Cleaned Null values:
-![null](After_cleaned_null.png)
+![After_cleaned_null](https://user-images.githubusercontent.com/94525786/235351652-e1b2e383-6355-4487-9c07-58de31302e76.png)
 
 ### Report of (people survived & Died):
-![survived](surived.png)
-
+![surived](https://user-images.githubusercontent.com/94525786/235351659-019b0b7c-2b73-47f4-97b6-fa9706eac6cf.png)
 ### Report of Survived People's Age:
-![age](age_survived.png)
+![age_survived](https://user-images.githubusercontent.com/94525786/235351710-0b936617-f531-4f71-b891-f72d583725a8.png)
 
 ### Report of pessengers:
-![pess](Count_passenger.png)
+![Count_passenger](https://user-images.githubusercontent.com/94525786/235351692-d8157671-3066-486d-ad32-59fd2812edef.png)
 
 ### Report:
-![report](out.png)
+![out](https://user-images.githubusercontent.com/94525786/235351718-94c2066b-30db-4226-9628-90dedb731ff7.png)
 
 ## RESULT:
 Thus, Sucessfully performed the various feature selection techniques on a given dataset.
