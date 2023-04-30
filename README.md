@@ -1,12 +1,12 @@
 # Ex-07-Feature-Selection
-## AIM:
+## AIM
 To Perform the various feature selection techniques on a dataset and save the data to a file. 
 
-## EXPLANATION:
+# Explanation
 Feature selection is to find the best set of features that allows one to build useful models.
 Selecting the best features helps the model to perform well. 
 
-## ALGORITHM:
+# ALGORITHM
 ### STEP 1
 Read the given Data
 ### STEP 2
@@ -16,12 +16,12 @@ Apply Feature selection techniques to all the features of the data set
 ### STEP 4
 Save the data to the file
 
-## PROGRAM:
+
+# PROGRAM:
 ```
 Developed By: Silambarasan K
 Reg No:212221230101
 ```
-
 ```py
 #importing library
 import pandas as pd
@@ -119,6 +119,39 @@ from sklearn.metrics import mean_squared_error, r2_score
 print ("MSE    :",mean_squared_error(y_test,target_predict))
 print ("R2     :",r2_score(y_test,target_predict))
 ```
-## OUPUT
+# OUPUT:
+### Dataset:
+![dataset](Dataset.png)
+
+### Null Values:
+![null](null.png)
+
+### Describe:
+![null](describe.png)
+
+### missing values::
+![missing_value](Missingvalue.png)
+
+### Data after cleaning:
+![data](Cleaneddata.png)
+
+### Data on Heatmap:
+![heatmap](Heatmap.png) 
+
+### Cleaned Null values:
+![null](After_cleaned_null.png)
+
+### Report of (people survived & Died):
+![survived](surived.png)
+
+### Report of Survived People's Age:
+![age](age_survived.png)
+
+### Report of pessengers:
+![pess](Count_passenger.png)
+
+### Report:
+![report](out.png)
 
 ## RESULT:
+Thus, Sucessfully performed the various feature selection techniques on a given dataset.
